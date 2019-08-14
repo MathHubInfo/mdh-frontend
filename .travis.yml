@@ -1,0 +1,8 @@
+language: node_js
+
+install:
+  - yarn install
+
+# very simple test: can we build?
+script:
+  - yarn build
