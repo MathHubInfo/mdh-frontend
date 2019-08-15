@@ -1,3 +1,5 @@
+** ARCHIVED **": Merged into https://github.com/MathHubInfo/mdh_django
+
 # MDH Frontend
 
 [![Build Status](https://travis-ci.org/MathHubInfo/mdh-frontend.svg?branch=master)](https://travis-ci.org/MathHubInfo/mdh-frontend)
